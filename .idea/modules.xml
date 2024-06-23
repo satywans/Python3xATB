@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PracticeJune_2024/.idea/PracticeJune_2024.iml" filepath="$PROJECT_DIR$/../PracticeJune_2024/.idea/PracticeJune_2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python3xATB.iml" filepath="$PROJECT_DIR$/.idea/Python3xATB.iml" />
     </modules>
   </component>
